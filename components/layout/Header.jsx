@@ -37,6 +37,12 @@ const Header = () => {
             <li className="px-[5px] py-[14px] uppercase hover:text-primary cursor-pointer">
               <Link href="/about">Hakkımızda</Link>
             </li>
+<<<<<<< HEAD
+=======
+            <li className="px-[5px] py-[14px] uppercase hover:text-primary cursor-pointer">
+              <Link href="/reservation">Rezervasyon</Link>
+            </li>
+>>>>>>> 7b9e6cc1236e76f5c25deba5d4736f218cee5e2e
           </ul>
           {isMenu && (
             <button

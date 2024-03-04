@@ -9,7 +9,11 @@ export default function Document() {
           rel="stylesheet"
         />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
+<<<<<<< HEAD
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin  = "true" />
+=======
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+>>>>>>> 7b9e6cc1236e76f5c25deba5d4736f218cee5e2e
         <link
           href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;1,300&display=swap"
           rel="stylesheet"

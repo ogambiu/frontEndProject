@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 import axios from "axios";
 import Head from "next/head";
+=======
+import Head from "next/head";
+import Footer from "../components/layout/Footer";
+import Header from "../components/layout/Header";
+>>>>>>> 7b9e6cc1236e76f5c25deba5d4736f218cee5e2e
 import Home from "./home";
 
 export default function Index() {

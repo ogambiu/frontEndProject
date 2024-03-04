@@ -38,26 +38,42 @@ const Carousel = () => {
       <Slider {...settings}>
         <div>
           <div className="mt-48  text-white flex flex-col items-start gap-y-10">
+<<<<<<< HEAD
             <Title addClass="text-6xl">Fast-Food Restoranı</Title>
+=======
+            <Title addClass="text-6xl">Fast Food Restaurant</Title>
+>>>>>>> 7b9e6cc1236e76f5c25deba5d4736f218cee5e2e
             <p className="text-sm sm:w-2/5 w-full">
               Doloremque, itaque aperiam facilis rerum, commodi, temporibus
               sapiente ad mollitia laborum quam quisquam esse error unde.
               Tempora ex doloremque, labore, sunt repellat dolore, iste magni
               quos nihil ducimus libero ipsam.
             </p>
+<<<<<<< HEAD
             <button className="btn-primary">Sipariş Ver</button>
+=======
+            <button className="btn-primary">Order Now</button>
+>>>>>>> 7b9e6cc1236e76f5c25deba5d4736f218cee5e2e
           </div>
         </div>
         <div>
           <div className="relative text-white top-48 flex flex-col items-start gap-y-10">
+<<<<<<< HEAD
             <Title addClass="text-6xl">Fast-Food Restoranı</Title>
+=======
+            <Title addClass="text-6xl">Fast Food Restaurant</Title>
+>>>>>>> 7b9e6cc1236e76f5c25deba5d4736f218cee5e2e
             <p className="text-sm sm:w-2/5 w-full">
               Doloremque, itaque aperiam facilis rerum, commodi, temporibus
               sapiente ad mollitia laborum quam quisquam esse error unde.
               Tempora ex doloremque, labore, sunt repellat dolore, iste magni
               quos nihil ducimus libero ipsam.
             </p>
+<<<<<<< HEAD
             <button className="btn-primary">Sipariş Ver</button>
+=======
+            <button className="btn-primary">Order Now</button>
+>>>>>>> 7b9e6cc1236e76f5c25deba5d4736f218cee5e2e
           </div>
         </div>
       </Slider>

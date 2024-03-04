@@ -8,12 +8,18 @@ import Products from '../../components/admin/Products';
 import Order from '../../components/admin/Order';
 import Password from '../../components/profile/Password';
 import Category from '../../components/admin/Category';
+<<<<<<< HEAD
 import AddProduct from '../../components/admin/AddProduct';
+=======
+>>>>>>> 7b9e6cc1236e76f5c25deba5d4736f218cee5e2e
 
 const Profile = () => {
 
     const [tabs, setTabs] = useState(0);
+<<<<<<< HEAD
     const [isProductModal, setIsProductModal] = useState(false);
+=======
+>>>>>>> 7b9e6cc1236e76f5c25deba5d4736f218cee5e2e
 
     
   return (
@@ -50,6 +56,7 @@ const Profile = () => {
         {tabs === 0 && <Products/>}
         {tabs === 1 && <Order/>}
         {tabs === 2 && <Category/>}
+<<<<<<< HEAD
         {isProductModal && <AddProduct setIsProductModal={setIsProductModal} />}
       <button
         className="btn-primary !w-12 !h-12 !p-0 absolute bottom-14 right-10 text-4xl"
@@ -57,6 +64,8 @@ const Profile = () => {
       >
         +
       </button>
+=======
+>>>>>>> 7b9e6cc1236e76f5c25deba5d4736f218cee5e2e
     </div>
   )
 }
